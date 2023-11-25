@@ -1,12 +1,14 @@
 # Project_intent
 
-Nama : FATHIA WARDAH S.DJAWAS
+Nama : Fathia Wardah S.Djawas
 
 NIM : 312210196
 
 Kelas : TI.22.A1
 
 Mata Kuliah : Pemrograman Mobile 1
+
+Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 
 
 ## Tugas :
@@ -1095,16 +1097,6 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 ## Hasil Run 
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
-
-
-
-
-
 https://github.com/FathiaDjawas/Project_intent/assets/115916422/2ab5a0d6-c12d-4588-a142-c089bec4a55f
-
-
-
-
-
 
 # Sekian, Terima kasih
